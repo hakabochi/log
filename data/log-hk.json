@@ -5,38 +5,8 @@
   "metadata": "ipfs://Qmd1z37sf3WkrNZMjjcaAtJxnTGP6f2KLj6cpaSTxJQVmG"
 },
 {
-  "tokenId": 8,
+  "tokenId": 0,
   "image": "ipfs://QmdWkwGRrptfUMHmv6JsGCLhBPykdesYTtVyCSLssxG9aD",
   "metadata": "ipfs://QmWpcHTApThsJvBjfLeiJtPhJ5U11JaZr7FCmHEctz4FrY"
-},
-{
-  "tokenId": 7,
-  "image": "ipfs://Qmc75ZK6ZuLGXj2G9PiHx9u3WaLk3xEmNHazMZQiQm5zST",
-  "metadata": "ipfs://QmewfM3zAYbBaEdHFB4X6p2nDoHHPnUYLm7ixXda2YjUe3"
-},
-  {
-    "tokenId": 6,
-    "image": "ipfs://QmdnA3M5H9xZUNibXe7s6bk9JcsUtvszKvXMQwcPgu9jVr",
-    "metadata": "ipfs://QmNZu9Y3kUqLAKP43HjmJKyfzvtCj9x4H9DSBKn44TBMue"
-  },
-  {
-    "tokenId": 5,
-    "video": "ipfs://QmNcvaqWntbdg578pMaosjuaABvLn4WU8sps5qqbxNa3oT",
-    "metadata": "ipfs://QmRFXoRNECZdpZ4URixaTfYDWfMunFhL2KmVAzABZaxhbM"
-  },
-  {
-    "tokenId": 4,
-    "image": "ipfs://QmeFnM2a3Ti3QvE4iv2RurXUDaGBsfKoSpfuvqMaiRAN36",
-    "metadata": "ipfs://Qmd8rtsCr4Du9osS3WyQ5huVAnTsPcuoJCYD1sMuSTFKVH"
-  },
-  {
-    "tokenId": 2,
-    "image": "ipfs://QmRZuP6QzUaX8xMu3rZ2qgna354RdtrFeeTU3VpJ16ykVS",
-    "metadata": "ipfs://QmSTpvrGfdUderqFJRZpcdXHk9HQecfUjwqmz724WaaE36"
-  },
-  {
-    "tokenId": 0,
-    "image": "ipfs://QmbgHqpcgvq8x5r35vrGXgryBsXqhSK3xmTZK8EPNT4JmT",
-    "metadata": "ipfs://QmZYswAcAHi3Nby4vaWCHf8ErCyAzZJyyUuJwX5sqx9J1q"
-  }
+}
 ]
