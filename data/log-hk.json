@@ -1,12 +1,7 @@
 [
-  {
-  "tokenId": 1,
-  "image": "ipfs://QmermN5vDhpMf2PjKUMdJma7kfPyVL6aNZceewKo5GyWUr",
-  "metadata": "ipfs://Qmd1z37sf3WkrNZMjjcaAtJxnTGP6f2KLj6cpaSTxJQVmG"
-},
 {
   "tokenId": 0,
-  "image": "ipfs://QmdWkwGRrptfUMHmv6JsGCLhBPykdesYTtVyCSLssxG9aD",
-  "metadata": "ipfs://QmWpcHTApThsJvBjfLeiJtPhJ5U11JaZr7FCmHEctz4FrY"
+  "image": "ipfs://QmSocEY6QBdfyWVmS5Er5VhjbcsrgNQgfENAnsSmJcd5V3",
+  "metadata": "ipfs://QmPz6EnJNiuNG6NQrevBonj8HTH2sLXZaeBkJHeoQSukEk"
 }
 ]
